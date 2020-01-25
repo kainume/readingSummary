@@ -1,5 +1,7 @@
 # Reading Group: Handbook of Labor Economics
 
+Jan. 25, 2020
+
 ## Contributor
 - Dong-san
 - Tung-san
